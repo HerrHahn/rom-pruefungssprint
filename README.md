@@ -4,11 +4,11 @@ Interaktive Lernwebsite für eine kurzfristige Geschichtsprüfung. Grundlage sin
 
 ## Sofort starten
 
-1. `index.html` herunterladen (auf GitHub über **Download raw file** oder **Code → Download ZIP**).
-2. Die heruntergeladene Datei per Doppelklick im Browser öffnen.
-3. **25-Minuten-Sprint** oder **Nur 10 Minuten** wählen.
+**[Lernwebsite direkt öffnen](https://herrhahn.github.io/rom-pruefungssprint/)** – ohne Download oder Anmeldung.
 
-Die Datei enthält alle Texte, Bilder, Stile und Funktionen. Sie funktioniert ohne Installation und ohne Internet; lediglich die optionalen Quellenlinks brauchen eine Verbindung. GitHub zeigt die HTML-Datei als Quelltext an, nicht als fertige Website.
+Auf der Startseite **25-Minuten-Sprint** oder **Nur 10 Minuten** wählen.
+
+Optional für die Offline-Nutzung: `index.html` herunterladen (auf GitHub über **Download raw file** oder **Code → Download ZIP**) und die Datei per Doppelklick im Browser öffnen. Sie enthält alle Texte, Bilder, Stile und Funktionen; lediglich die optionalen Quellenlinks brauchen eine Internetverbindung.
 
 ## Enthalten
 
@@ -26,7 +26,7 @@ Die Zeitangaben sind Richtwerte. Der Bildquellentipp ist keine Vorhersage der ta
 
 ## Speicherung
 
-Antworten und Entwurf werden ausschließlich im lokalen Browserspeicher gehalten, soweit der Browser dies zulässt. Es gibt keine Anmeldung in der Lernwebsite, keine Analyse-Dienste, keine KI-Korrektur und keine Übermittlung der Antworten. Das Repository ist privat. Die vollständige Unterrichts-ZIP und persönliche Notizen sind nicht enthalten.
+Antworten und Entwurf werden ausschließlich im lokalen Browserspeicher gehalten, soweit der Browser dies zulässt. Es gibt keine Anmeldung in der Lernwebsite, keine Analyse-Dienste, keine KI-Korrektur und keine Übermittlung der Antworten. Repository und Lernwebsite sind öffentlich zugänglich. Die vollständige Unterrichts-ZIP und persönliche Notizen sind nicht enthalten.
 
 ## Fachliche Korrekturen
 
